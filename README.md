@@ -1,2 +1,2 @@
-# test2
-金融2
+# Streamlit_Financial_Dashboard_Trading
+Streamlit Financial Dashboard and Program Trading
